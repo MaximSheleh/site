@@ -97,8 +97,13 @@ ul.hr li {
 	.menu{
 		background-color: #fff;
 		margin-top: 50px;
+		vertical-align:top; /* top */
+
 
 	}
 .w{
-	margin: 0px;
+	display: table-cell;
+
+	vertical-align:top;
 }
+div{vertical-align:top;}
