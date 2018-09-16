@@ -129,6 +129,19 @@ margin: 0;
 	background-color: #80848a;
 	height: 200px;
 	margin-right: 15px;
+
+}
+.reklama2{
+	background-color: #80848a;
+	height: 500px;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.reklama3{
+	background-color: #80848a;
+	height: 50px;
+	margin-right: 15px;
+	margin-top: 10px;
 }
 .name{
 	text-align: start;
@@ -183,4 +196,9 @@ margin: 0;
 .color{
 	background-color: #585858;
 	border-radius: 10px;
+}
+.border2{
+		border-bottom: 1px solid #fff;
+		margin-left: 15px;
+		margin-top: 10px;
 }
