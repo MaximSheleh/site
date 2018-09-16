@@ -194,6 +194,9 @@ margin: 0;
 }
 .f{
 	text-align: start;
+	margin-top: 15px;
+	list-style-type:none;
+	font-size: 110%;
 }
 .q{
 	text-align: start;
@@ -212,6 +215,10 @@ margin: 0;
 .t{
 	margin: 0;
 	margin-top: px;
+}
+.imge{
+	margin-left: 50px;
+	margin-top: 20px;
 }
 .panel{
 	font-size: 150%;
@@ -251,4 +258,11 @@ margin: 0;
 }
 .end2{
 	margin: 10px;
+}
+.leftimg {
+    float:left; /* Выравнивание по левому краю */
+    margin: 7px 20px 7px 0; /* Отступы вокруг картинки */
+   }
+.text2{
+	text-align: start;
 }
