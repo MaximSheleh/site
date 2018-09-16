@@ -62,6 +62,7 @@ body{
 
 
 
+
 }
 ul.hr li a{
 	color: #fff;
@@ -95,15 +96,21 @@ ul.hr li {
 	 border: 3px solid #fff;
 	}
 	.menu{
-		background-color: #fff;
+		color:#fff;
+		background-color: #03050880;
 		margin-top: 50px;
 		vertical-align:top; /* top */
+		text-align:center;
+
 
 
 	}
 .w{
-	display: table-cell;
+text-align:center;
+	text-align:start;
+text-align:center;
 
-	vertical-align:top;
 }
-div{vertical-align:top;}
+.films{
+	margin: 0;
+}
