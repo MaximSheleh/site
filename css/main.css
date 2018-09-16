@@ -220,6 +220,11 @@ margin: 0;
 	margin-left: 50px;
 	margin-top: 20px;
 }
+.player{
+	margin-left: 48px;
+	margin-top: 30px;
+
+}
 .panel{
 	font-size: 150%;
 	border-bottom: 1px solid #ffffff78;
