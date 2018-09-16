@@ -94,23 +94,81 @@ ul.hr li {
 }
 .frame {
 	 border: 3px solid #fff;
-	}
-	.menu{
+}
+.menu{
 		color:#fff;
 		background-color: #03050880;
 		margin-top: 50px;
 		vertical-align:top; /* top */
 		text-align:center;
-
-
-
-	}
-.w{
-text-align:center;
-	text-align:start;
-text-align:center;
-
+		border: 1px solid #fff;
 }
+
+
+.w{
+
+text-align:center;
+margin: 0;
+}
+
+
 .films{
 	margin: 0;
+	border-left: 1px solid #fff;
+
+
+
+
+}
+
+
+.reklama{
+	background-color: #80848a;
+	height: 200px;
+	margin-right: 15px;
+}
+.name{
+	text-align: start;
+	font-size: 200%;
+	margin-bottom: 20px;
+	margin-top: 50px;
+}
+.filmdiscas{
+	height:255px;
+	text-overflow: clip;
+	overflow: hidden;
+	text-align:start;
+	margin:0;
+	text-overflow: ellipsis;
+	margin-top:-30px;
+}
+.f{
+	text-align: start;
+}
+.q{
+	text-align: start;
+	font-size: 150%;
+	margin-top: 10px;
+}
+.AcFilm{
+	margin-top: 50px;
+	border-top: 1px solid #fff;
+}
+.categor{
+	background-color: ;
+	margin-bottom: 5px;
+}
+.t{
+	margin: 0;
+	margin-top: px;
+}
+.panel{
+	font-size: 150%;
+	border-bottom: 1px solid #fff;
+	margin-left: 15px;
+}
+.panel2{
+	font-size: 150%;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
