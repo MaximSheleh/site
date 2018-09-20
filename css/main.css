@@ -88,10 +88,20 @@ ul.hr li {
 	margin-top: 100px;
 	height: 200px;
 }
+.recomend2{
+	background-color: #03050880;
+	margin-top: 10px;
+	height: 200px;
+}
 .y{
 	align-items: center;
 	margin-left: 20px;
 	padding-top: 10px;
+
+}
+.yy{
+
+	padding-top: 23px;
 
 }
 .frame {
